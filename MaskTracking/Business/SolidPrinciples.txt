@@ -1,0 +1,6 @@
+
+S=> Single Responsibility = Her katman her class her if bloðu sadece ve sadece bir iþi yapar.
+O=> Açýk Kapalýlýk Prensibi (Open/Closed Principle): Bir modül (sýnýf, fonksiyon, vb.), deðiþikliklere kapalý, ancak yeni özelliklere açýk olmalýdýr. Yani, mevcut kodu deðiþtirmek yerine yeni özellikler eklemek mümkün olmalýdýr.
+L=> Liskov Yerine Koyma Prensibi (Liskov Substitution Principle): Alt sýnýflar, üst sýnýflarýn yerine geçebilmelidir. Yani, bir sýnýfýn nesnesi, türetilmiþ sýnýflarýn nesneleriyle yer deðiþtirdiðinde programýn beklenmedik bir þekilde çalýþmamasý gerekir.
+I=> Arayüz Ayýrma Prensibi (Interface Segregation Principle - ISP): Bir sýnýf, ihtiyaç duymadýðý metodlarý içermemelidir. Yani, bir sýnýfýn kullanmadýðý özellikleri içeren arayüzleri uygulamamasý gerekir.
+D=> Baðýmlýlýklarýn Tersine Çevrimesi Prensibi (Dependency Inversion Principle): Yüksek seviyeli modüller, düþük seviyeli modüllere baðlý olmamalýdýr. Her ikisi de soyutlamalara (abstraction) baðlý olmalýdýr. Ayrýca, detaylar soyutlamalara deðil, soyutlamalar detaylara baðlý olmalýdýr.
