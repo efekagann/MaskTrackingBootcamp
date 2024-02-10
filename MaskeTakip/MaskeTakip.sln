@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkAround", "WorkAround\WorkAround.csproj", "{D0D94433-9433-437C-B1C1-9FD83C6430EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entitiess\Entities.csproj", "{36A2CC2F-3B94-4D8D-B27F-1E98BDF9FD7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{C7BE408D-28D5-4BDF-8D23-E8EE38A793F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0D94433-9433-437C-B1C1-9FD83C6430EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D94433-9433-437C-B1C1-9FD83C6430EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D94433-9433-437C-B1C1-9FD83C6430EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D94433-9433-437C-B1C1-9FD83C6430EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36A2CC2F-3B94-4D8D-B27F-1E98BDF9FD7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A2CC2F-3B94-4D8D-B27F-1E98BDF9FD7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A2CC2F-3B94-4D8D-B27F-1E98BDF9FD7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A2CC2F-3B94-4D8D-B27F-1E98BDF9FD7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7BE408D-28D5-4BDF-8D23-E8EE38A793F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7BE408D-28D5-4BDF-8D23-E8EE38A793F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7BE408D-28D5-4BDF-8D23-E8EE38A793F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7BE408D-28D5-4BDF-8D23-E8EE38A793F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4605E19-B755-40C3-A7CB-3ECF746FB60D}
+	EndGlobalSection
+EndGlobal
